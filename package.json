@@ -4,6 +4,10 @@
         "start": "nodemon src/app.js"
     },
     "dependencies": {
-        "nodemon": "^3.1.14"
+        "bcrypt": "^6.0.0",
+        "jsonwebtoken": "^9.0.3",
+        "nodemailer": "^8.0.5",
+        "nodemon": "^3.1.14",
+        "uuid": "^13.0.0"
     }
 }
